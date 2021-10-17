@@ -1,0 +1,6 @@
+ul{list-style:none;}
+
+li::before{
+	content:"$";
+	margin-right:8px;
+}
