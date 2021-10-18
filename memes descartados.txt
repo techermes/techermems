@@ -1,1 +1,0 @@
-        <p align="center"><img src="mem_9.jpg" width="512" height="512"></p>
